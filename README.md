@@ -31,7 +31,7 @@ python convert2MJPEG.py "包含视频的文件夹路径"
 ### How do I choose appropriate videos?
 The meaning of the folder name of this project is as follows, you can choose by resolution and screen shape (video rotation angle):
 ```
-Width_Height_Screen shapre_Rotation angle
+Width_Height_LCDshape_Rotation
 ```
 
 ### How to convert existing video file in mp4?
